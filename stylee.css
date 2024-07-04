@@ -131,3 +131,8 @@ footer {
 
   color: rgba(39, 33, 66, 0.4);
 }
+@media (max-width: 900px) {
+  .weather-app {
+    width: 800px;
+  }
+}
